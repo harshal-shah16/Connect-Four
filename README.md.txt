@@ -1,7 +1,7 @@
 
 <h1 align="center">Connect Four Game</h1>
 
-<br/>
+
 
 <h2>About</h2>
 Developed popular 2-player Connect 4 game in Python using Turtle graphics.
